@@ -1,6 +1,6 @@
 # Git
 
-##**What is version control?**
+## **What is version control?**
 
 For anyone who is creating content:
 
@@ -10,19 +10,19 @@ For anyone who is creating content:
 * Can provide an off-site copy of data:
     * Easy synchronization with local copies
 
-##**Supports collaboration:**
+## **Supports collaboration:**
 
 * People may update simultaneously
 * Might make overlapping changes
 * Can support merging and dealing with conflicts
 * Can manage the work of the team
 
-##**What is Git?**
+## **What is Git?**
 
 * Git is a version control system (VCS)
 * Fast, Modern, fully-featured
 * The most popular VCS
-* IT IS A FREE TOOL
+* **IT IS A FREE TOOL**
 * Great for collaborative work
 * You can have a locally saved copy or a remote copy
 
@@ -31,7 +31,7 @@ For anyone who is creating content:
 
 * A Git directory/folder is called a repository
 
-##**Commands in Git**
+## **Commands in Git**
 
 | Command | Description |
 |---|---|
