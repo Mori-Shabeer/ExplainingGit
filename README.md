@@ -56,3 +56,5 @@ For anyone who is creating content:
 | `clear` | Clear the Terminal Screen |
 | `pwd` | Show Current Working Directory |
 
+![explained-git-basic-workflow](https://github.com/user-attachments/assets/8d0faa15-7d83-4bac-8dbe-4a0e4049f834)
+
